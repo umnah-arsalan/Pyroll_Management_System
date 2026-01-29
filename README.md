@@ -1,4 +1,4 @@
-# Pyroll_Management_System
+# Payroll_Management_System
 Features we have:
 1. Employee records
 2. Salary calculation
